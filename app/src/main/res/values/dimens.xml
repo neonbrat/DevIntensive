@@ -9,6 +9,21 @@
     <dimen name="size_medium_56">56dp</dimen>
     <dimen name="size_large_72">72dp</dimen>
 
+    <!--Spaces-->
+    <dimen name="spacing_small_8">8dp</dimen>
+    <dimen name="spacing_normal_16">16dp</dimen>
+    <dimen name="spacing_medial_24">24dp</dimen>
+    <dimen name="spacing_medium_32">32dp</dimen>
+    <dimen name="spacing_large_56">56dp</dimen>
+    <dimen name="spacing_larger_72">72dp</dimen>
+
+    <!--Ratio-->
+    <dimen name="ratio_16_9">16/9</dimen>
+    <dimen name="ratio_3_2">3/2</dimen>
+    <dimen name="ratio_4_3">4/3</dimen>
+    <dimen name="ratio_1_1">1/1</dimen>
+    <dimen name="ratio_3_4">3/4</dimen>
+    <dimen name="ratio_2_3">2/3</dimen>
 
 
 </resources>
